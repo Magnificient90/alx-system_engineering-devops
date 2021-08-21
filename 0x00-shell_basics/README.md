@@ -1,0 +1,1 @@
+writing scriot to orint name of current working directory absolutly
